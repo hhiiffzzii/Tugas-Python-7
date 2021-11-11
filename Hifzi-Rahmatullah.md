@@ -50,9 +50,9 @@ Mempraktikkan setiap tema pada video yang telah diberikan menggunakan VS Code me
 ## Random
 
 > ### Source Code
-<br>
+![images (14)](https://user-images.githubusercontent.com/93045470/141347925-e3bf4e69-1e73-4478-968b-58de2f9d3d33.png)<br>
 > ### Hasil Output
-
+![images (15)](https://user-images.githubusercontent.com/93045470/141347818-a46bc752-1310-45b1-bdf7-215ce736dccc.png)
 
 ## PIP dan Virtualenv
 
