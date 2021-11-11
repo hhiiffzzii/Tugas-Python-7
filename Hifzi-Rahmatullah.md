@@ -6,8 +6,7 @@ Mempraktikkan setiap tema pada video yang telah diberikan menggunakan VS Code me
 - Module
 - Package
 - Random
-- PIP dan Virtualenv
-- Materi Selanjutnya<br><br>
+- PIP dan Virtualenv<br><br>
 
 ## Membaca CSV
 
