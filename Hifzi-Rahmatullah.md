@@ -55,7 +55,35 @@ Mempraktikkan setiap tema pada video yang telah diberikan menggunakan VS Code me
 ![images (15)](https://user-images.githubusercontent.com/93045470/141347818-a46bc752-1310-45b1-bdf7-215ce736dccc.png)
 
 ## PIP dan Virtualenv
+- ### Install Virtualenv
+```
+py -m pip install --user virtualenv
+```
+> Penginstallan Sukses
 
-> ### Source Code
-<br>
-> ### Hasil Output
+![images (16)](https://user-images.githubusercontent.com/93045470/141460411-1a95f3c4-9511-48c6-a23d-5ed2c5dff3d2.png)
+
+- ### Membuat Folder Virtualenv untuk Project
+```
+py -m venv env
+```
+> Pembuatan Folder Sukses
+  
+![images (17)](https://user-images.githubusercontent.com/93045470/141463388-79353ec2-b021-4e07-904d-4524b328aee0.png)
+
+- ### Install Module "cowsay" pada Venv
+```
+pip install cowsay
+```
+> Penginstallan Module Sukses
+
+![images (18)](https://user-images.githubusercontent.com/93045470/141464232-3e19f356-eecd-4229-8cd2-b35115a19ba8.png)
+
+- ### Mempraktikkan Module yang Sudah di Install (cowsay)
+> Source Code
+
+![images (19)](https://user-images.githubusercontent.com/93045470/141465741-b756f525-b20c-4a5b-b8ec-a5957e4f1560.png)<br>
+
+> Hasil Output
+
+![images (20)](https://user-images.githubusercontent.com/93045470/141465448-2cae4f72-7596-458d-aee0-f32fc3db83a2.png)
